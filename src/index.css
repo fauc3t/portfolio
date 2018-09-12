@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: rgb(34, 49, 63);
+  color: ghostwhite;
+  font-family: 'Roboto Condensed';
+  font-size: 1.5em;
+  font-weight: 300;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.f-reg{
+  font-weight: 400;
+}
+
+.title{
+  margin-top: 20px;
+}
+
+.in-20{
+  margin-left: 20px;
+}
+
+a{
+  text-decoration: underline;
+  color: ghostwhite;
+}
+a:hover {
+  color: rgb(224, 130, 131)
+}
+
+i {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.project-images{
+  margin-top: 40px;
+  width:  80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  max-width: 80%;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightslategray;
+}
