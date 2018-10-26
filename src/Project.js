@@ -15,6 +15,13 @@ class Project extends Component {
             return proj.name === projectName;
         })[0];
 
+        if(!projectInfo) {
+            return (
+            <div>
+                <div className="title f-reg">404 Not Found :(</div>
+            </div>);
+        }
+
         // create the image tags
         var images = projectInfo.images.map((image, index) => {
             return(

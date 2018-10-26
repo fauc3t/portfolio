@@ -11,6 +11,11 @@ body {
   margin-left: 25px;
 }
 
+.content {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
 .f-reg{
   font-weight: 400;
 }
@@ -44,8 +49,17 @@ i {
 }
 
 img {
-  max-width: 80%;
+  max-width: 40%;
   padding: 5px;
   margin: 5px;
   background-color: lightslategray;
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    max-width: 80%;
+    padding: 5px;
+    margin: 5px;
+    background-color: lightslategray;
+  }
 }
