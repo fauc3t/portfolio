@@ -64,7 +64,7 @@ class Home extends Component {
             <div className="in-20" id="social">
                 {socialList}     
             </div>
-            <div className="title f-reg"><a href="http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/NicholasHorn-Resume.pdf">resume</a></div>
+            <div className="title f-reg"><a href="https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/NicholasHorn-Resume.pdf">resume</a></div>
         </div>
       );
     }
