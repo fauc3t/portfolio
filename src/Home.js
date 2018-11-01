@@ -60,6 +60,10 @@ class Home extends Component {
             <div className="in-20" id="projects">
                 {projectList}        
             </div>
+            <div className="title f-reg">blog:</div>
+            <div className="in-20" id="blog">
+                coming soon!       
+            </div>
             <div className="title f-reg">social:</div>
             <div className="in-20" id="social">
                 {socialList}     
