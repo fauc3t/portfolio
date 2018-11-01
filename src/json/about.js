@@ -3,6 +3,7 @@
  * json information for building my portfolio
  */
 
+ /* interests */
 const interests = [
     "software development",
     "brazilian jiu-jitsu",
@@ -10,6 +11,7 @@ const interests = [
     "coffee" 
 ]
 
+/* work */
 const work = [
     {
         "name": "Softheon",
@@ -23,6 +25,7 @@ const work = [
     }
 ]
 
+/* projects */
 const projects = [
     {
         "name": "strands",
@@ -46,6 +49,7 @@ const projects = [
     }
 ]
 
+/* social */
 const social = [
     {
         "name": "github",
