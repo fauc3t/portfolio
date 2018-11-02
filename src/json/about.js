@@ -31,10 +31,10 @@ const projects = [
         "name": "strands",
         "about": "A light social media for short literature that I am currently developing for iOS.",
         "images": [
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/strands_1.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/strands_2.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/strands_3.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/strands_4.png"
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_1.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_2.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_3.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_4.png"
         ]
     },
     {
@@ -46,10 +46,10 @@ const projects = [
         "name": "zipper",
         "about": "My first dabble in mobile development. A simple beat-my-highscore style game where you help Zipper the robot dodge clouds and collect balloons. Due to lost source code (I've since started using source control) and updated Apple policies, it is no longer available for download.",
         "images": [
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/zipper_1.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/zipper_2.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/zipper_3.png",
-            "http://ec2-52-10-65-179.us-west-2.compute.amazonaws.com/images/portfolio/zipper_4.png"
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/zipper_1.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/zipper_2.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/zipper_3.png",
+            "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/zipper_4.png"
         ]
     }
 ]
