@@ -38,6 +38,11 @@ const projects = [
         ]
     },
     {
+        "name": "treps.io",
+        "about": "more info coming soon!",
+        "images": []
+    },
+    {
         "name": "zipper",
         "about": "My first dabble in mobile development. A simple beat-my-highscore style game where you help Zipper the robot dodge clouds and collect balloons. Due to lost source code (I've since started using source control) and updated Apple policies, it is no longer available for download.",
         "images": [
