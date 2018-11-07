@@ -54,6 +54,15 @@ const projects = [
     }
 ]
 
+/* blogs */
+const blogs = [
+    {
+        "title": "Xamarin iOS Validation Text Field Tutorial",
+        "url": "https://medium.com/@ncwhorn/xamarin-ios-validation-text-field-tutorial-18a58a1c8411",
+        "date": "9/4/2018"
+    }
+]
+
 /* social */
 const social = [
     {
@@ -78,4 +87,4 @@ const social = [
     }
 ]
 
-module.exports = {interests, work, projects, social};
+module.exports = {interests, work, projects, social, blogs};

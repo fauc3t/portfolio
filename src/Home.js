@@ -46,6 +46,15 @@ class Home extends Component {
             );
         });
 
+        var blogList = about.blogs.map((blog, index) => {
+            return (
+                <div key={index}>
+                    <a key={index} href={blog.url}>{blog.title}</a> - {blog.date}
+                </div>
+            );
+        });
+
+
         return (
         <div>
             <div className="title f-reg">interests:</div>
@@ -62,7 +71,7 @@ class Home extends Component {
             </div>
             <div className="title f-reg">blog:</div>
             <div className="in-20" id="blog">
-                coming soon!       
+                {blogList}      
             </div>
             <div className="title f-reg">social:</div>
             <div className="in-20" id="social">
