@@ -30,6 +30,7 @@ const projects = [
     {
         "name": "strands",
         "about": "A light social media for short literature that I am currently developing for iOS.",
+        "link": "",
         "images": [
             "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_1.png",
             "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_2.png",
@@ -39,11 +40,18 @@ const projects = [
     },
     {
         "name": "treps.io",
-        "about": "more info coming soon!",
-        "images": []
+        "link": "https://treps.io/",
+        "about": "(Thought Reps) A thought log that utilizes spaced repetition to help users study and hold onto thoughts that might otherwise get lost in the bustle of life. Designed to feel like social media and become a seamless part of any daily routine.",
+        "images": [
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_1.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_2.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_3.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_4.JPG'
+        ]
     },
     {
         "name": "zipper",
+        "link": "",
         "about": "My first dabble in mobile development. A simple beat-my-highscore style game where you help Zipper the robot dodge clouds and collect balloons. Due to lost source code (I've since started using source control) and updated Apple policies, it is no longer available for download.",
         "images": [
             "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/zipper_1.png",

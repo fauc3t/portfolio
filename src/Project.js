@@ -32,6 +32,10 @@ class Project extends Component {
         return (
             <div>
                 <div className="title f-reg">{projectName}</div>
+                {
+                    projectInfo.link && projectInfo.link !== '' &&
+                    <div className="title"><a href={projectInfo.link}>{projectInfo.link}</a></div>
+                }
                 <div className="title">{projectInfo.about}</div>
                 <div className="project-images">
                     {images}
