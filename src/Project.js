@@ -12,7 +12,7 @@ class Project extends Component {
 
         // get the project info from about.js
         var projectInfo = about.projects.filter((proj) => {
-            return proj.name === projectName;
+            return proj.path === projectName;
         })[0];
 
         if(!projectInfo) {
@@ -31,7 +31,7 @@ class Project extends Component {
 
         return (
             <div>
-                <div className="title f-reg">{projectName}</div>
+                <div className="title f-reg">{projectInfo.name}</div>
                 {
                     projectInfo.link && projectInfo.link !== '' &&
                     <div className="title"><a href={projectInfo.link}>{projectInfo.link}</a></div>

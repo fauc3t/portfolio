@@ -32,7 +32,7 @@ class Home extends Component {
         var projectList = about.projects.map((project, index) => {
             return(
                 <div key={index}>
-                    <div><NavLink to={"projects/" +project.name}>{project.name}</NavLink></div>
+                    <div><NavLink to={"projects/" +project.path}>{project.name}</NavLink></div>
                 </div>
             );
         });

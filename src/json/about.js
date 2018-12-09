@@ -28,8 +28,21 @@ const work = [
 /* projects */
 const projects = [
     {
+        "name": "thought reps",
+        "path": "thoughtreps",
+        "link": "https://thoughtreps.com/",
+        "about": "A thought log that utilizes spaced repetition to help users study and hold onto thoughts that might otherwise get lost in the bustle of life. Designed to feel like social media and become a seamless part of any daily routine.",
+        "images": [
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_1.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_2.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_3.JPG',
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_4.JPG'
+        ]
+    },
+    {
         "name": "strands",
         "about": "A light social media for short literature that I am currently developing for iOS.",
+        "path": "strands",
         "link": "",
         "images": [
             "https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/strands_1.png",
@@ -39,18 +52,8 @@ const projects = [
         ]
     },
     {
-        "name": "treps.io",
-        "link": "https://treps.io/",
-        "about": "(Thought Reps) A thought log that utilizes spaced repetition to help users study and hold onto thoughts that might otherwise get lost in the bustle of life. Designed to feel like social media and become a seamless part of any daily routine.",
-        "images": [
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_1.JPG',
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_2.JPG',
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_3.JPG',
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_4.JPG'
-        ]
-    },
-    {
         "name": "zipper",
+        "path": "zipper",
         "link": "",
         "about": "My first dabble in mobile development. A simple beat-my-highscore style game where you help Zipper the robot dodge clouds and collect balloons. Due to lost source code (I've since started using source control) and updated Apple policies, it is no longer available for download.",
         "images": [
