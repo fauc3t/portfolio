@@ -40,6 +40,13 @@ const projects = [
         ]
     },
     {
+        "name": "why.dev",
+        "path": "why.dev",
+        "link": "https://why.dev/",
+        "about": "When Google released the .dev TLD I was pretty excited to be able to snag my portfolio's domain name. I tend to get a little domain trigger-happy so I snagged a couple more including why.dev. I thought I could do some pretty interesting things with it but for now I've put a palceholder site that (minimally) mimics Google's https://get.dev/. I would also like to add that this domain is potentially for sale, so feel free to shoot me an offer.",
+        "images": []
+    },
+    {
         "name": "strands",
         "about": "A light social media for short literature that I am currently developing for iOS.",
         "path": "strands",
