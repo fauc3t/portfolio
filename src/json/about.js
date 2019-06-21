@@ -33,10 +33,11 @@ const projects = [
         "link": "https://thoughtreps.com/",
         "about": "A thought log that utilizes spaced repetition to help users study and hold onto thoughts that might otherwise get lost in the bustle of life. Designed to feel like social media and become a seamless part of any daily routine.",
         "images": [
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_1.JPG',
+            'https://thoughtreps.s3-us-west-2.amazonaws.com/assets/thought_reps_timeline_landing.gif'
+            /*'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_1.JPG',
             'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_2.JPG',
             'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_3.JPG',
-            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_4.JPG'
+            'https://s3-us-west-2.amazonaws.com/nickhorn-portfolio/treps_4.JPG'*/
         ]
     },
     {
