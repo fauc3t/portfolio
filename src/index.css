@@ -49,17 +49,38 @@ i {
 }
 
 img {
-  max-width: 40%;
+  max-height: 500px;
   padding: 5px;
   margin: 5px;
   background-color: lightslategray;
 }
 
-@media only screen and (max-width: 600px) {
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 800px) {
   img {
-    max-width: 80%;
+    max-width: 95%;
     padding: 5px;
     margin: 5px;
     background-color: lightslategray;
+  }
+
+  body {
+    margin: 10px !important;
+
   }
 }

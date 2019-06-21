@@ -37,7 +37,7 @@ class Project extends Component {
                     <div className="title"><a href={projectInfo.link}>{projectInfo.link}</a></div>
                 }
                 <div className="title">{projectInfo.about}</div>
-                <div className="project-images">
+                <div className="flex flex-row flex-center flex-wrap">
                     {images}
                 </div>
             </div>
