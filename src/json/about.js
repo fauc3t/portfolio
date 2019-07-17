@@ -45,7 +45,7 @@ const projects = [
         "about": "A google chrome extension for easily seeking to the exact time of a video and generating a link.",
         "path": "youtube-play-extension",
         "link": "https://chrome.google.com/webstore/detail/youtube-playback-exact-ti/akjdpndmmghomfhopmliafonajmamebk/related",
-        "images": "https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/1280x800.png"
+        "images": ["https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/1280x800.png"]
     },
     {
         "name": "strands",
