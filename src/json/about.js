@@ -41,10 +41,10 @@ const projects = [
         ]
     },
     {
-        "name": "YouTube Playback - Exact Time, Links and More Chrome Extension",
+        "name": "youtube playback extension",
         "about": "A google chrome extension for easily seeking to the exact time of a video and generating a link.",
         "path": "youtube-play-extension",
-        "link": "https://chrome.google.com/webstore/detail/youtube-playback-exact-ti/akjdpndmmghomfhopmliafonajmamebk/related",
+        "link": "https://bit.ly/2M6nHGN",
         "images": ["https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/1280x800.png"]
     },
     {
