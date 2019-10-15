@@ -14,9 +14,14 @@ const interests = [
 /* work */
 const work = [
     {
+        "name": "Amazon",
+        "title": "Software Development Engineer",
+        "dates": "October 2019 - Present"
+    },
+    {
         "name": "Softheon",
         "title": "Software Engineer",
-        "dates": "June 2016 - Present"
+        "dates": "June 2016 - September 2019"
     },
     {
         "name": "Cablevision",
