@@ -15,7 +15,7 @@ const interests = [
 const work = [
     {
         "name": "Amazon",
-        "title": "Software Development Engineer",
+        "title": "Software Development Engineer II",
         "dates": "October 2019 - Present"
     },
     {
@@ -53,8 +53,8 @@ const projects = [
         "images": ["https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/1280x800.png"]
     },
     {
-        "name": "strands",
-        "about": "A light social media for short literature that I am currently developing for iOS.",
+        "name": "strands [on hold]",
+        "about": "A light social media for short literature that I started development of for iOS. Although this has been put on hold, it is something I look forward to getting back to in the future.",
         "path": "strands",
         "link": "",
         "images": [
