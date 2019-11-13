@@ -18,7 +18,7 @@ class App extends Component {
 
       <BrowserRouter>
         <div>
-          <div className="f-reg"><NavLink to="/">nicholas horn</NavLink></div>
+          <div className="f-reg"><NavLink to="/">nick horn</NavLink></div>
           <div className="content">
             <Route exact path="/" component={Home}/>
             <Route path="/projects" component={Project}/>
