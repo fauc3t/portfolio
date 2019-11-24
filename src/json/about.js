@@ -46,6 +46,16 @@ const projects = [
         ]
     },
     {
+        "name": "playlist sync",
+        "about": "A web application that lets Spotify users sync up their favorite playlists into others to reduce redudancy.",
+        "path": "playlist-sync",
+        "link": "https://playlistsync.com",
+        "images": [
+            "https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/playlist_sync_1.PNG",
+            "https://nickhorn-portfolio.s3-us-west-2.amazonaws.com/playlist_sync_2.PNG"
+        ]
+    },
+    {
         "name": "youtube playback extension",
         "about": "A google chrome extension for easily seeking to the exact time of a video and generating a link.",
         "path": "youtube-play-extension",
