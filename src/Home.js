@@ -71,6 +71,7 @@ class Home extends Component {
             </div>
             <div className="title f-reg">blog:</div>
             <div className="in-20" id="blog">
+                <a href="https://blog.nickhorn.com/>Personal Blog</a>
                 {blogList}      
             </div>
             <div className="title f-reg">social:</div>
