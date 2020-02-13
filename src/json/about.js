@@ -88,20 +88,6 @@ const projects = [
     }
 ]
 
-/* blogs */
-const blogs = [
-    {
-        "title": "Thoughts on Releasing Something into the World",
-        "url": "https://medium.com/@ncwhorn/thoughts-on-releasing-something-into-the-world-1e7112c35720?source=friends_link&sk=b5911bce637faadb970fb76768cb3126",
-        "date": "7/6/2019"
-    },
-    {
-        "title": "Xamarin iOS Validation Text Field Tutorial",
-        "url": "https://medium.com/@ncwhorn/xamarin-ios-validation-text-field-tutorial-18a58a1c8411",
-        "date": "9/4/2018"
-    }
-]
-
 /* social */
 const social = [
     {
@@ -126,4 +112,4 @@ const social = [
     }
 ]
 
-module.exports = {interests, work, projects, social, blogs};
+module.exports = {interests, work, projects, social};
