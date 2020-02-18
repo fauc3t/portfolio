@@ -102,7 +102,7 @@ const social = [
     },
     {
         "name": "medium",
-        "link": "https://medium.com/@ncwhorn",
+        "link": "https://medium.com/@nickhorn",
         "icon": "fab fa-medium"
     },
     {
